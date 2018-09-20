@@ -1,0 +1,31 @@
+{
+  "name": "musicplayer",
+  "version": "1.0.0",
+  "description": "a music player",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html5",
+    "gulp"
+  ],
+  "author": "lihuifang",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^9.1.5",
+    "cssnano": "^4.1.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.6.1",
+    "gulp-deporder": "^1.1.0",
+    "gulp-htmlclean": "^2.7.22",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-less": "^4.0.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-server-livereload": "^1.9.2",
+    "gulp-strip-debug": "^3.0.0",
+    "gulp-uglify": "^3.0.1"
+  }
+}
